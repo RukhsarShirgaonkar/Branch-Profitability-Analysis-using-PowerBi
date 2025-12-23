@@ -1,35 +1,60 @@
 # Branch-Profitability-Analysis-using-PowerBi
-##📊 Bharat National Bank – Branch Profitability Analysis
-##📌 Overview
 
-This Power BI project analyzes branch-level profitability and performance of Bharat National Bank to identify high-performing branches, inefficiencies, and improvement areas using data-driven insights.
+# 📊 Bharat National Bank – Branch Profitability Analysis
 
-##🎯 Objective
+---
 
-Analyze branch and regional profitability
-Identify efficient and underperforming branches
-Compare profits, costs, loans, and customer satisfaction
-Support better management decision-making
+## 📖 Project Overview
+This project analyzes **branch-level profitability and operational performance** of **Bharat National Bank** using **Power BI**.
 
-##📈 Key Insights
+The analysis helps identify **high-performing branches**, **inefficiencies**, and **areas for improvement** across different regions of India to support **data-driven decision-making**.
 
-North region generates the highest profit
-Some branches show high profit per employee, indicating better efficiency
-Operating cost vs profit trends highlight inefficiencies
-High-risk loan branches identified
-Customer satisfaction varies across branches
+---
 
-##🧰 Tools Used
+## 🎯 Objectives
+- Analyze **branch and regional profitability**
+- Identify **efficient and underperforming branches**
+- Evaluate **profit per employee**
+- Compare **deposits, loans, and risk levels**
+- Analyze **operating cost vs profit trends**
+- Assess **customer satisfaction across branches**
 
-Power BI
-Data Modeling & DAX
-Interactive Dashboards
+---
 
-##📊 Data Scope
+## 📊 Data Scope
+- **50 bank branches** across India  
+- **12 months** of financial and operational data  
+- Key metrics include:
+  - Deposits  
+  - Loans  
+  - Profit  
+  - Operating Cost  
+  - Profit per Employee  
+  - Customer Satisfaction  
+  - Loan Risk Levels  
 
-50 bank branches across India
-12 months of financial and operational data
+---
 
-##✅ Conclusion
+## 📈 Key Insights
+- **North region** contributes the highest profit  
+- Certain branches show **high profit per employee**, indicating strong workforce efficiency  
+- **High-risk loan branches** identified for better credit control  
+- Monthly trends highlight **periods of inefficiency**  
+- Customer satisfaction varies significantly across branches  
 
-The analysis emphasizes improving branch efficiency, managing loan risk, and enhancing customer satisfaction for sustainable growth.
+---
+
+## 🛠 Tools Used
+- **Power BI**
+- **DAX**
+- **Data Modeling**
+- **Interactive Dashboards**
+
+---
+
+## ✅ Conclusion
+The analysis shows that the bank should focus on improving **branch efficiency**, managing **loan risk**, and enhancing **customer satisfaction** to ensure **sustainable growth across all branches**.
+
+
+---
+
