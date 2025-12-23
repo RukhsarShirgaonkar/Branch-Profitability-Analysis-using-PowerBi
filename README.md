@@ -1,45 +1,35 @@
 # Branch-Profitability-Analysis-using-PowerBi
-📊 Bharat National Bank – Branch Profitability Analysis
-📌 Overview
+##📊 Bharat National Bank – Branch Profitability Analysis
+##📌 Overview
 
-This Power BI project analyzes branch-level profitability and performance of Bharat National Bank to help identify high-performing branches, inefficiencies, and areas for improvement using data-driven insights.
+This Power BI project analyzes branch-level profitability and performance of Bharat National Bank to identify high-performing branches, inefficiencies, and improvement areas using data-driven insights.
 
-🎯 Objective
+##🎯 Objective
 
 Analyze branch and regional profitability
-
 Identify efficient and underperforming branches
-
 Compare profits, costs, loans, and customer satisfaction
-
 Support better management decision-making
 
-📈 Key Insights
+##📈 Key Insights
 
 North region generates the highest profit
-
 Some branches show high profit per employee, indicating better efficiency
-
-Operating cost vs profit trends reveal seasonal inefficiencies
-
+Operating cost vs profit trends highlight inefficiencies
 High-risk loan branches identified
-
 Customer satisfaction varies across branches
 
-🧰 Tools Used
+##🧰 Tools Used
 
 Power BI
-
 Data Modeling & DAX
-
 Interactive Dashboards
 
-📊 Data Scope
+##📊 Data Scope
 
 50 bank branches across India
-
 12 months of financial and operational data
 
-✅ Conclusion
+##✅ Conclusion
 
-The analysis highlights the need to improve branch efficiency, manage loan risk, and enhance customer satisfaction to achieve sustainable growth.
+The analysis emphasizes improving branch efficiency, managing loan risk, and enhancing customer satisfaction for sustainable growth.
